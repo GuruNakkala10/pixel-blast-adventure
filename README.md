@@ -1,5 +1,5 @@
 # pixel-blast-adventure
-A fast-paced arcade game built with Python and Pygame. Navigate obstacles, collect points, and reach the highest score! This game was created as a personal project by me to learn coding, game design, and software publishing.
+A fast-paced arcade game built with Python and Pygame. Navigate obstacles, collect points, and reach the highest score! This game was created as a personal project by me (Guru Nakkala) to learn coding, game design, and software publishing.
 
 ## 🎮 How to Play
 
